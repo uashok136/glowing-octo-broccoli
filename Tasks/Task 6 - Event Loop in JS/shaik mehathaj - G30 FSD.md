@@ -64,3 +64,5 @@
 - The event loop ensures JavaScript stays **non-blocking**.
 - Microtask queue has **higher priority** than macrotask queue.
 - Understanding queues helps avoid unexpected output order bugs.
+
+- ---
